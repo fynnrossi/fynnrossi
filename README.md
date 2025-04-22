@@ -69,11 +69,6 @@ I’m a lifelong problem‑solver who follows my curiosity wherever it leads—w
 - **AI‑Enhanced Development:** Proficient at leveraging AI coding assistants to scaffold in JavaScript, Kotlin, and more.  
 - **Product Vision:** Now I spend most of my time on app architecture, user outcomes, and long‑term product strategy—making the process as rewarding as the code itself.
 
----
-
-## 📈 GitHub Stats
-
-![YourName’s GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ---
 
